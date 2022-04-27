@@ -1,1 +1,1 @@
-# -Mei-Si---NLP-Modeling-Naive-Psychology-of-Characters-in-Simple-Commonsense-Stories
+# [Mei Si - NLP] Modeling Naive Psychology of Characters in Simple Commonsense Stories
