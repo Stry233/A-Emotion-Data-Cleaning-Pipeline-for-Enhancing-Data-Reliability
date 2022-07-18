@@ -1,1 +1,1 @@
-# [Mei Si - NLP] Modeling Naive Psychology of Characters in Simple Commonsense Stories
+# A Emotion Data Cleaning Pipeline for Enhancing Data Reliability
